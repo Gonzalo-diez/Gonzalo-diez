@@ -13,7 +13,7 @@
 - Pregunta lo que quieras, estoy feliz de ayudar.
 - Mi portfolio personal: https://portfolio-gonzalo-diez.netlify.app/
 
-<img src="https://giphy.com/gifs/hello-phone-call-ring-KpOqvmCFdNMhF0pQb7" width="10px" /> Contactame
+## <img src="https://giphy.com/gifs/hello-phone-call-ring-KpOqvmCFdNMhF0pQb7" width="10px" /> Contactame
 <p align="left">
   <a href="https://www.linkedin.com/in/gdiezbuchanan/" target="blank"><svg src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></svg></a>
   <a href="https://www.instagram.com/gonzalodiezbuch/" targer="blank"><svg src"https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"></svg></a>
