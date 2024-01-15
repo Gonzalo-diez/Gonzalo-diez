@@ -13,7 +13,7 @@
 - Pregunta lo que quieras, estoy feliz de ayudar.
 - Mi portfolio personal: https://portfolio-gonzalo-diez.netlify.app/
 
-## <iframe src="https://giphy.com/embed/KpOqvmCFdNMhF0pQb7" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe> Contactame
+## <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/WqXjQsd0MAhc2CvtkQ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/FanshaweCollege-college-fanshawe-fanshawecollege-WqXjQsd0MAhc2CvtkQ">via GIPHY</a></p> Contactame
 <p align="left">
   <a href="https://www.linkedin.com/in/gdiezbuchanan/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="30" width="40" /></a>
   <a href="https://www.instagram.com/gonzalodiezbuch/" targer="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" height="30" width="40" /></a>
