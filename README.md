@@ -10,7 +10,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Contactame
 <p align="left">
-  <a href="https://www.linkedin.com/in/gdiezbuchanan/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/gdiezbuchanan/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="40" width="40" /></a>
   <a href="https://www.instagram.com/gonzalodiezbuch/" targer="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" height="40" width="40" /></a>
   <a href="mailto:gonzalodiez97@gmail.com"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="40" width="40" /></a>
 </p>
