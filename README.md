@@ -1,11 +1,6 @@
 <h1 align="center">Hola 👋, soy Gonzalo</h1>
 
-<svg xmlns="http://www.w3.org/2000/svg" width="420" height="40" viewBox="0 0 420 40">
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#000">
-    <tspan dy="0" id="text">Desarrollador web Front End</tspan>
-    <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.5s" repeatCount="1" fill="freeze" />
-  </text>
-</svg>
+# Desarrollador web Front End
 
 **Sobre Mi**
 - En este momento estoy aprendiendo Back End con Node.js.
@@ -24,6 +19,8 @@
 <img alt="JS" src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript">
 <img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
 <img alt="HTML" src="https://img.shields.io/badge/HTML-14354C.svg?logo=html5&logoColor=black&color=orange">
+<img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat">
 <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=blue&color=yellow">
 <img alt="Nodejs" src="https://img.shields.io/badge/Nodejs-14354C.svg?logo=node.js&logoColor=black&color=darkgreen">
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-14354C.svg?logo=bootstrap&logoColor=white&color=mediumpurple">
+<img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=flat">
