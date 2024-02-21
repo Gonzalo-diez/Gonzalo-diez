@@ -6,7 +6,7 @@
 - En este momento estoy aprendiendo Back End con Node.js.
 - Mis hobbies son leer libros, ver series y hacer Jiu-Jitsu (BJJ).
 - Pregunta lo que quieras, estoy feliz de ayudar.
-- Mi portfolio personal: https://portfolio-gonzalo-diez.netlify.app/
+- Mi portfolio personal: [https://portfolio-gonzalo-diez.netlify.app/](https://portfolio-gonzalo-diez-buchanan.netlify.app/)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Contactame
 <p align="left">
