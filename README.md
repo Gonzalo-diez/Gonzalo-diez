@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I am Gonzalo</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Desarrollador+Web+Front+End)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=39A7F7&background=FFFFFF&random=false&width=435&lines=Front+End+Web+Developer)](https://git.io/typing-svg)
 
 **About me**
 - Currently i am learning Back End con Node.js.
