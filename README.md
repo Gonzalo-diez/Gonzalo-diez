@@ -1,14 +1,14 @@
-<h1 align="center">Hola 👋, soy Gonzalo</h1>
+<h1 align="center">Hi 👋, I am Gonzalo</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Desarrollador+Web+Front+End)](https://git.io/typing-svg)
 
-**Sobre Mi**
-- En este momento estoy aprendiendo Back End con Node.js.
-- Mis hobbies son leer libros, ver series y hacer Jiu-Jitsu (BJJ).
-- Pregunta lo que quieras, estoy feliz de ayudar.
-- Mi portfolio personal: https://portfolio-gonzalo-diez-buchanan.netlify.app/
+**About me**
+- Currently i am learning Back End con Node.js.
+- My hobbies are reading books, wath series and do jiu-jitsu (BJJ).
+- Ask anything you want, I'm happy to help.
+- My personal portfolio: https://portfolio-gonzalo-diez-buchanan.netlify.app/
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Contactame
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Contact me
 <p align="left">
   <a href="https://www.linkedin.com/in/gdiezbuchanan/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="40" width="40" /></a>
   <a href="https://www.instagram.com/gonzalodiezbuch/" targer="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" height="40" width="40" /></a>
