@@ -26,5 +26,6 @@
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-14354C.svg?logo=bootstrap&logoColor=white&color=mediumpurple">
   <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=flat">
 </p>
+
 **Gitub stats**
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gonzalo-diez&theme=dark&show_icons=true)
