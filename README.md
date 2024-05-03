@@ -8,7 +8,7 @@
 - Ask anything you want, I'm happy to help.
 - My personal portfolio: https://portfolio-gonzalo-diez-buchanan.netlify.app/
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Contact me
+## <img src="https://giphy.com/stickers/SERVPROofMontgomeryCounty-phone-cell-servpro-team-nicholson-eUvDjeBbgw5vce0Nz1" width="30px"> Contact me
 <p align="left">
   <a href="https://www.linkedin.com/in/gdiezbuchanan/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="40" width="40" /></a>
   <a href="https://www.instagram.com/gonzalodiezbuch/" targer="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" height="40" width="40" /></a>
