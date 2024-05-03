@@ -8,7 +8,7 @@
 - Ask anything you want, I'm happy to help.
 - My personal portfolio: https://portfolio-gonzalo-diez-buchanan.netlify.app/
 
-## <img src="https://media.giphy.com/stickers/SERVPROofMontgomeryCounty-phone-cell-servpro-team-nicholson-eUvDjeBbgw5vce0Nz1" width="30px"> Contact me
+## <img src="https://giphy.com/gifs/eKJebgUL2Ckrc5NKa7" width="30px"> Contact me
 <p align="left">
   <a href="https://www.linkedin.com/in/gdiezbuchanan/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="40" width="40" /></a>
   <a href="https://www.instagram.com/gonzalodiezbuch/" targer="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" height="40" width="40" /></a>
@@ -27,7 +27,7 @@
   <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=flat">
 </p>
 
-## <img src="https://giphy.com/embed/eUvDjeBbgw5vce0Nz1" width="30px"> Gitub stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Gitub stats
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gonzalo-diez&theme=dark&show_icons=true)
