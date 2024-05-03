@@ -27,7 +27,7 @@
   <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=flat">
 </p>
 
-**Gitub stats**
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Gitub stats
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gonzalo-diez&theme=dark&show_icons=true)
