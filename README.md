@@ -34,7 +34,9 @@
   <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=flat" />
 </p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Gitub stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Gitub stats y estadisticas
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gonzalo-diez&theme=dark&show_icons=true)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gonzalo-diez)](https://github.com/anuraghazra/github-readme-stats)
