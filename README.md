@@ -22,6 +22,7 @@
   <img alt="HTML" src="https://img.shields.io/badge/HTML-14354C.svg?logo=html5&logoColor=black&color=orange" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat" />
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=blue&color=yellow" />
+  <img alt="Django" src"https://img.shields.io/badge/-Django-092E20?logo=Django&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react" />
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/Nodejs-14354C.svg?logo=node.js&logoColor=black&color=darkgreen" />
