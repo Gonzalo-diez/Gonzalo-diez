@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=39A7F7&background=FFFFFF&random=false&width=435&lines=Front+End+Web+Developer)](https://git.io/typing-svg)
 
 **About me**
-- My hobbies are reading books, wath series and do jiu-jitsu (BJJ).
+- My hobbies are reading books, wath series and do jiu-jitsu (BJJ)🥋​🥋​.
 - Ask anything you want, I'm happy to help.
 - My personal portfolio: https://portfolio-gonzalo-diez-buchanan.netlify.app/
 
